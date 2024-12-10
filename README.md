@@ -1,4 +1,4 @@
-# CLIEdit
+# cliedit
 Uploading this to GitHub because i lost this code several times...
 
 # Features
