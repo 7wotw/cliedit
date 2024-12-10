@@ -11,6 +11,11 @@ Uploading this to GitHub because i lost this code several times...
   - Lines starting with `*` or `-` are automatically formatted as bullet points.
 - **Cursor Position Display**: Shows the current line and column at the bottom-right corner.
 - **Filename Display**: Displays the name of the file being edited at the top of the editor.
+### Plans to add:
+- Discord RPC support
+- Optimalizations
+- More formatting options
+- Maybe more on request?? I doubt someones ever going to see this tho..
 
 # Usage
 ## Prerequisites
